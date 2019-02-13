@@ -11,3 +11,5 @@ However, this new accessibility may lead to **negative consequences**.
 > "Because of their ease-of-use, these skills could be co-opted by extremists or conspiracy theorists who don’t have an official path to broadcast their “fake news” otherwise. Amazon will need to be careful in its vetting and approval process."
 
 It is going to be interesting to see how popular Blueprints becomes, and how much moderation is done on the platform to prevent fraudulent/misleading programs from taking over the store.
+
+**Vivian Fang:** I think Alexa Blueprints is a cool idea because it allows good ideas to be developed by everyone, not just people who know how to code. In addition, it will most likely be easier for people who know how to code to develop new apps as well. I also agree that it will be extremely for Amazon to regulate the apps carefully and make sure there are strong guidelines for new app approval.
